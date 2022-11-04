@@ -400,12 +400,12 @@ logo = ("""
 \x1b[1;92m      
 
    \x1b[1;92m╔═════════════════════════════╗
-   \x1b[1;92m║➣TOOL NAME : {DARKNESS}║
-   \x1b[1;92m║➣AUTHOR    : Rafsanur Rafin║
-   \x1b[1;92m║➣WHATSAPP  : 01628143875║
+   \x1b[1;92m║➣TOOL NAME : {DARKNESS}
+   \x1b[1;92m║➣AUTHOR    : Rafsanur Rafin
+   \x1b[1;92m║➣WHATSAPP  : 01628143875
    \x1b[1;92m║➣FACEBOOK : https://www.facebook.com/rafsanur.rafin║
-   \x1b[1;92m║➣Github  : DRUNK01 ║
-   \x1b[1;92m║➣YOUTUBE  : [ CRX71 GAMING ] ║
+   \x1b[1;92m║➣Github  : DRUNK01 
+   \x1b[1;92m║➣YOUTUBE  : [ CRX71 GAMING ] 
    \x1b[1;92m╚═════════════════════════════╝""")
 
 class Main:
@@ -1324,6 +1324,6 @@ def Subscraption():
 		input(" Press Enter To Send Key")
 		time.sleep(3.5)
 		tks = 'Dear%20Admin,%20Please%20Approved%20My%20Key%20To%20Premium%20%20Thanks%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20My%20Name%20:%20'+name+'%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20My%20%20Key%20%20:%20'+ak+ahsan+''+key1
-		os.system('am start https://wa.me/+8801639311271?text=' + tks)
+		os.system('am start https://wa.me/+8801628143875?text=' + tks)
 		Subscraption()        
 Subscraption()
