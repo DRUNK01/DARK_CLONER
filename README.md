@@ -5,15 +5,15 @@
 
 apt upgrade
 
-pkg install python -y
+pkg install python -Y
 
-pkg install python2 -y
+pkg install python2 -Y
 
 pkg install php 
 
 
 
-pkg install git -y
+pkg install git -Y
 
 git clone https://github.com/DRUNK01/DARK_CLONER.git
 
